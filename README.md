@@ -67,13 +67,13 @@ Therefore, Random Forest was selected as the best-performing model in this compa
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone 
 
 ## Project Visualizations
 
 ### Confusion Matrix
 
-![Confusion Matrix](Output_graph/model_rf.png)
+![Confusion Matrix](Output_graph/Graph09.png)
 
 ### ROC Curve
 
