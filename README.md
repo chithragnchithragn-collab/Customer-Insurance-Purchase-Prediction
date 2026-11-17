@@ -64,7 +64,7 @@ Therefore, Random Forest was selected as the best-performing model in this compa
 
 ## How to Run the Project
 
-### 1. Clone the Repository
+### 1. Clone the Repository 
      
 ```bash
 git clone https://github.com/chithragnchithragn-collab/Customer-Insurance-Purchase-Prediction.git
