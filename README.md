@@ -85,6 +85,27 @@ git clone https://github.com/chithragnchithragn-collab/Customer-Insurance-Purcha
 
 
 
+Customer Prediction Scenarios
+
+The trained Random Forest model was tested using 8 customer scenarios.
+
+Scenario| Age| Estimated Salary (₹)| Prediction
+|---|---|---|---|
+1| 30| 87,000| Unlikely to Purchase
+2| 40| 0| Unlikely to Purchase
+3| 40| 1,00,000| Likely to Purchase
+4| 50| 0| Likely to Purchase
+5| 18| 0| Unlikely to Purchase
+6| 22| 6,00,000| Likely to Purchase
+7| 35| 2,50,000| Likely to Purchase
+8| 60| 10,00,000| Likely to Purchase
+
+Assumption: No Salary is represented as ₹0.
+
+Note: These are model predictions, not guaranteed customer decisions. Predictions outside the training data range should be interpreted cautiously.
+
+
+
 
 
 
