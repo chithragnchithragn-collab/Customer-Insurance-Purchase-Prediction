@@ -24,7 +24,7 @@ The dataset contains the following features:
 
 ## Technologies Used
 
-- Python
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
