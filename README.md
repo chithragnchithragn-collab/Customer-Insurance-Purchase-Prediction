@@ -68,7 +68,7 @@ Therefore, Random Forest was selected as the best-performing model in this compa
      
 ```bash
 git clone https://github.com/chithragnchithragn-collab/Customer-Insurance-Purchase-Prediction.git
-
+```
 ## Project Visualizations
 
 ### Confusion Matrix
